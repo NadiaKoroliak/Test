@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Guid="b092252a-3d2a-4442-8e11-172a04f96409" SettingsBundleGuid="b9729821-67ec-4518-bda8-94ca96c598fe" Version="4.0.0.0" Owner="NadiiaK\Nadiia" ProjectTemplateGuid="10004f3b-4acf-4425-a3e3-38d3b3514276" ReferenceProjectGuid="00000000-0000-0000-0000-000000000000">
+  <LanguageDirections>
+    <LanguageDirection Guid="736b322e-aaf2-4389-ae89-b80f40adecc2" SettingsBundleGuid="2362cfed-7e1a-4be9-842e-c5c960ff68e5" TargetLanguageCode="cs-CZ" SourceLanguageCode="uk-UA">
+      <AutoSuggestDictionaries />
+      <CascadeItem OverrideParent="false" StopSearchingWhenResultsFound="false" />
+    </LanguageDirection>
+  </LanguageDirections>
+  <TermbaseConfiguration>
+    <LanguageIndexMappings>
+      <Language>uk-UA</Language>
+    </LanguageIndexMappings>
+    <LanguageIndexMappings>
+      <Language>cs-CZ</Language>
+    </LanguageIndexMappings>
+    <RecognitionOptions>
+      <ShowWithNoAvailableTranslation>false</ShowWithNoAvailableTranslation>
+      <MinimumMatchValue>70</MinimumMatchValue>
+      <SearchDepth>200</SearchDepth>
+      <SearchOrder>Parallel</SearchOrder>
+    </RecognitionOptions>
+  </TermbaseConfiguration>
+  <SettingsBundles>
+    <SettingsBundle Guid="b9729821-67ec-4518-bda8-94ca96c598fe">
+      <SettingsBundle>
+        <SettingsGroup Id="FileTypeManagerConfigurationSettingsGroup">
+          <Setting Id="FileTypeManagerConfigurationSettings">
+            <FileTypeManagerConfigurationList xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sdl.com/projectapi">
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>SDL XLIFF 1.0 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>TTX 2.0 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>ITD v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Word 2000-2003 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Word 2007 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PowerPoint XP-2003 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PowerPoint 2007 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Excel 2007 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Excel 2003 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Bilingual Workbench 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>RTF v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XHTML 1.1 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>HTML v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>FrameMaker 8.0 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Inx 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>IDML v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>ICML Filter 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Odt 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Odp 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Ods 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>QuarkXPress v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XLIFF 1.1-1.2 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>WsXliff 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PDF v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>CSV v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Tab Delimited v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Java Resources v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: RESX v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.2 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>DocBook 4.5 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: ITS 1.0 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: Any v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Plain Text v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.1 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>FrameMaker 8.0 v 1.0.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+              </FileTypeManagerConfigurationItem>
+            </FileTypeManagerConfigurationList>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="TranslationMemoryUpdateTaskSettings">
+          <Setting Id="AlwaysAddNewTranslation">True</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="QAVerificationSettings">
+          <Setting Id="Enabled">True</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="SettingsTermVerifier">
+          <Setting Id="Enabled">True</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="SourceContentSettings">
+          <Setting Id="AllowSourceEditing">True</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="PerfectMatchTaskSettings">
+          <Setting Id="MarkAsPerfectMatchAndLock">True</Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="7cd7ed5b-24f6-4bc2-8b38-892e7084411b">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="84d6188f-d07f-4ad8-adb6-502c4cd28054">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="1c401985-a9de-4018-a44c-c9f79b35f68a">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+  </SettingsBundles>
+  <InitialTaskTemplate Description="ComplexTask_Prepare_NoProjectTM_Description" Name="ComplexTask_Prepare_NoProjectTM_Name" Id="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM">
+    <SubTaskTemplates>
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Conversion" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Split" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.PerfectMatch" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" />
+    </SubTaskTemplates>
+  </InitialTaskTemplate>
+  <AnalysisBands>
+    <AnalysisBand MinimumMatchValue="50" />
+    <AnalysisBand MinimumMatchValue="75" />
+    <AnalysisBand MinimumMatchValue="85" />
+    <AnalysisBand MinimumMatchValue="95" />
+  </AnalysisBands>
+  <ManualTaskTemplates />
+  <Users>
+    <User UserId="NadiiaK\Nadiia" FullName="Nadiia" Description="" Email="nadya_korolyak@yahoo.com" PhoneNumber="" EmailType="Smtp" />
+  </Users>
+  <CascadeItem OverrideParent="true" StopSearchingWhenResultsFound="false">
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="false" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///E:/РОБОТА/ПЕРЕКЛАДИ/ТМ ТРАДОС/Трамвайне депо.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///C:/Users/Nadiia/Desktop/MEDEQUIPMENT EN_RU.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///G:/РОБОТА/ПЕРЕКЛАДИ/ТМ ТРАДОС/AMALKA_CZ_RU.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///G:/РОБОТА/ПЕРЕКЛАДИ/ТМ ТРАДОС/Katalog_Moroz_Ua_Cz.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///G:/РОБОТА/ПЕРЕКЛАДИ/USA/26 серппня 2014/Software Strings - September 2014 - RUS/Software Strings - September 2014 - RUS/02- TMs to Use/RU.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///G:/РОБОТА/ПЕРЕКЛАДИ/USA/26 серппня 2014/Software Strings - September 2014 - RUS/Software Strings - September 2014 - RUS/02- TMs to Use/WD_Merged_ru-ru.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///G:/РОБОТА/ПЕРЕКЛАДИ/ТМ ТРАДОС/LEGAL_CZ_RU.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///H:/РОБОТА/ПЕРЕКЛАДИ/ТМ ТРАДОС/MEDICINE_EN_RU.sdltm" Enabled="false" />
+    </CascadeEntryItem>
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///G:/RECOVERED/Новая папка (2)/found.000/dir0000.chk/ТМ ТРАДОС/LEGAL_UA_CZ.sdltm" Enabled="true" />
+    </CascadeEntryItem>
+  </CascadeItem>
+  <GeneralProjectInfo StartedAt="2015-03-22T21:25:33.3774788Z" IsInPlace="false" IsImported="false" Description="" Name="Sud_Sevchyshyn_UK_CZ" Status="Started" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:23:05.1510007Z" />
+  <SourceLanguageCode>uk-UA</SourceLanguageCode>
+  <ProjectFiles>
+    <ProjectFile Guid="fada25c7-1d94-4b86-a266-2cd1ff0748f6" Path="" Role="Translatable" Name="Dorucennja.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Word 2007 v 2.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="76f82e2b-d938-4412-afba-4f1d1495308c" SettingsBundleGuid="56ce674c-7727-4daf-b471-8e33e8b4fd5e" LanguageCode="uk-UA">
+          <FileVersions>
+            <FileVersion Guid="9a3fea5c-bdb0-4285-8528-a8241799fdf5" VersionNumber="1" Size="13784" FileName="Dorucennja.docx" PhysicalPath="uk-UA\Dorucennja.docx" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:24:14.2559533Z" FileTimeStamp="2015-03-22T21:17:19.7612455Z" />
+            <FileVersion Guid="446a43a9-d77d-43d6-a2f6-32ee032ddb97" VersionNumber="2" Size="32686" FileName="Dorucennja.docx.sdlxliff" PhysicalPath="uk-UA\Dorucennja.docx.sdlxliff" Comment="" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:36.3676498Z" FileTimeStamp="2015-03-22T21:25:36.2516432Z" />
+          </FileVersions>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="728afe46-67b2-4a41-8d18-c5a473d2abab" SettingsBundleGuid="d9cccae9-0cc0-4f79-81c3-b8d5893aa1c7" LanguageCode="cs-CZ">
+          <FileVersions>
+            <FileVersion Guid="d68a0065-c563-4939-85f7-5d5b4cc3aa8b" VersionNumber="3" Size="32686" FileName="Dorucennja.docx.sdlxliff" PhysicalPath="cs-CZ\Dorucennja.docx.sdlxliff" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.7058407Z" FileTimeStamp="2015-03-22T21:25:36.2516432Z" />
+            <FileVersion Guid="64297572-9693-4a52-b5e1-2aa29cf46211" VersionNumber="4" Size="34817" FileName="Dorucennja.docx.sdlxliff" PhysicalPath="cs-CZ\Dorucennja.docx.sdlxliff" Comment="Created by 'Apply PerfectMatch+Analyze Files+Pre-translate Files'" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:55.2727311Z" FileTimeStamp="2015-03-22T21:25:54.9047101Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2015-03-22T21:25:36.2516432Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2015-03-22T21:25:36.2516432Z" AnalysisStatus="Complete">
+            <Total Words="164" Characters="1059" Segments="17" Placeables="23" Tags="16" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="164" Characters="1059" Segments="17" Placeables="23" Tags="16" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2015-03-23T17:52:06.3291963Z" Status="Complete">
+            <Unspecified Words="0" Characters="1" Segments="0" Placeables="0" Tags="-8" />
+            <Draft Words="0" Characters="-1" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="164" Characters="1059" Segments="17" Placeables="23" Tags="8" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="0073fdcf-e47b-45ae-8a58-492405b0057d" Path="" Role="Translatable" Name="Kurs NBU.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Word 2007 v 2.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="8cca9a9c-de46-4706-a783-657c794b3b46" SettingsBundleGuid="84973bb0-4261-4155-821e-9c4bf9a867cd" LanguageCode="uk-UA">
+          <FileVersions>
+            <FileVersion Guid="dd6f110f-6e66-4f3b-906e-e1f9333675da" VersionNumber="1" Size="19379" FileName="Kurs NBU.docx" PhysicalPath="uk-UA\Kurs NBU.docx" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:24:14.9579934Z" FileTimeStamp="2015-03-22T20:47:24.8475823Z" />
+            <FileVersion Guid="cc59c29a-4472-40b7-80ac-4503b0677571" VersionNumber="2" Size="217652" FileName="Kurs NBU.docx.sdlxliff" PhysicalPath="uk-UA\Kurs NBU.docx.sdlxliff" Comment="" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:37.5857195Z" FileTimeStamp="2015-03-22T21:25:37.4837136Z" />
+          </FileVersions>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="070418b1-8644-4a91-9bf4-3e9b645e2614" SettingsBundleGuid="7cd7ed5b-24f6-4bc2-8b38-892e7084411b" LanguageCode="cs-CZ">
+          <FileVersions>
+            <FileVersion Guid="74a8fb7f-6d1e-4db1-8281-d6356017238b" VersionNumber="3" Size="217652" FileName="Kurs NBU.docx.sdlxliff" PhysicalPath="cs-CZ\Kurs NBU.docx.sdlxliff" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.7418428Z" FileTimeStamp="2015-03-22T21:25:37.4837136Z" />
+            <FileVersion Guid="a2c6b496-1ebf-477e-834d-eadeb57e1a3b" VersionNumber="4" Size="234160" FileName="Kurs NBU.docx.sdlxliff" PhysicalPath="cs-CZ\Kurs NBU.docx.sdlxliff" Comment="Created by 'Apply PerfectMatch+Analyze Files+Pre-translate Files'" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:26:00.9080534Z" FileTimeStamp="2015-03-22T21:26:00.8420496Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2015-03-22T21:25:37.4837136Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2015-03-22T21:25:37.4837136Z" AnalysisStatus="Complete">
+            <Total Words="153" Characters="876" Segments="109" Placeables="100" Tags="12" />
+            <Repetitions Words="49" Characters="221" Segments="49" Placeables="49" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="2" Characters="41" Segments="2" Placeables="2" Tags="0" />
+            </Fuzzy>
+            <New Words="102" Characters="614" Segments="58" Placeables="49" Tags="12" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2015-03-23T19:07:50.7501224Z" Status="Complete">
+            <Unspecified Words="0" Characters="1" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="-1" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="153" Characters="876" Segments="109" Placeables="100" Tags="12" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="fc9c1369-ad7e-46be-95aa-ec500b886e64" Path="" Role="Translatable" Name="Pozov.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Word 2007 v 2.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="02b6d329-b6ba-4c0c-9fdf-ebb75e4b56b9" SettingsBundleGuid="43031662-3cdf-4af7-9ab0-c09abfd73a98" LanguageCode="uk-UA">
+          <FileVersions>
+            <FileVersion Guid="491021c6-d971-473f-8e29-16a0c35b4abd" VersionNumber="1" Size="24068" FileName="Pozov.docx" PhysicalPath="uk-UA\Pozov.docx" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:24:15.0519988Z" FileTimeStamp="2015-03-22T21:15:10.6758623Z" />
+            <FileVersion Guid="e0bb6530-dbc2-4a4d-badd-a95a9e54d1e9" VersionNumber="2" Size="140761" FileName="Pozov.docx.sdlxliff" PhysicalPath="uk-UA\Pozov.docx.sdlxliff" Comment="" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:38.9117953Z" FileTimeStamp="2015-03-22T21:25:38.2267561Z" />
+          </FileVersions>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="98b28b07-b760-44a3-82ba-67d2b0f84ff4" SettingsBundleGuid="84d6188f-d07f-4ad8-adb6-502c4cd28054" LanguageCode="cs-CZ">
+          <FileVersions>
+            <FileVersion Guid="dade1c1a-b09a-448b-bfd8-c4e6a588ddc1" VersionNumber="3" Size="140761" FileName="Pozov.docx.sdlxliff" PhysicalPath="cs-CZ\Pozov.docx.sdlxliff" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.6248361Z" FileTimeStamp="2015-03-22T21:25:38.2267561Z" />
+            <FileVersion Guid="9caad579-a21c-415e-a299-0101a55a4385" VersionNumber="4" Size="152055" FileName="Pozov.docx.sdlxliff" PhysicalPath="cs-CZ\Pozov.docx.sdlxliff" Comment="Created by 'Apply PerfectMatch+Analyze Files+Pre-translate Files'" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:26:03.3611937Z" FileTimeStamp="2015-03-22T21:26:03.2871895Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2015-03-22T21:25:38.2267561Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2015-03-22T21:25:38.2267561Z" AnalysisStatus="Complete">
+            <Total Words="754" Characters="4620" Segments="86" Placeables="452" Tags="388" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="8" Characters="36" Segments="6" Placeables="4" Tags="0" />
+            <Fuzzy>
+              <CountData Words="5" Characters="16" Segments="2" Placeables="8" Tags="4" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="7" Characters="32" Segments="1" Placeables="2" Tags="2" />
+              <CountData Words="4" Characters="13" Segments="1" Placeables="4" Tags="0" />
+            </Fuzzy>
+            <New Words="730" Characters="4523" Segments="76" Placeables="434" Tags="382" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2015-03-24T14:14:56.82186Z" Status="Complete">
+            <Unspecified Words="0" Characters="13" Segments="0" Placeables="0" Tags="-216" />
+            <Draft Words="0" Characters="-15" Segments="0" Placeables="0" Tags="-12" />
+            <Translated Words="754" Characters="4622" Segments="86" Placeables="452" Tags="228" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="a8d2c014-bab7-4bac-b68a-aff24831eab4" Path="" Role="Translatable" Name="Uchvala.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Word 2007 v 2.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="ff54ad59-1b3a-4c55-822e-5e8094d1272b" SettingsBundleGuid="72bbb046-1b60-47bc-8919-74368e54c942" LanguageCode="uk-UA">
+          <FileVersions>
+            <FileVersion Guid="ecae5597-9461-4165-9b5a-4fa748006e0c" VersionNumber="1" Size="18444" FileName="Uchvala.docx" PhysicalPath="uk-UA\Uchvala.docx" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:24:15.1110022Z" FileTimeStamp="2015-03-22T21:19:50.3588592Z" />
+            <FileVersion Guid="5667002c-2b7b-4354-9eec-7ab8083da170" VersionNumber="2" Size="55820" FileName="Uchvala.docx.sdlxliff" PhysicalPath="uk-UA\Uchvala.docx.sdlxliff" Comment="" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.2628154Z" FileTimeStamp="2015-03-22T21:25:39.2488146Z" />
+          </FileVersions>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="bda9167c-af45-438f-a516-a2bad65288e6" SettingsBundleGuid="1c401985-a9de-4018-a44c-c9f79b35f68a" LanguageCode="cs-CZ">
+          <FileVersions>
+            <FileVersion Guid="66f8c152-ffd9-4d9e-b693-8130d0e8baf5" VersionNumber="3" Size="55820" FileName="Uchvala.docx.sdlxliff" PhysicalPath="cs-CZ\Uchvala.docx.sdlxliff" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.779845Z" FileTimeStamp="2015-03-22T21:25:39.2488146Z" />
+            <FileVersion Guid="6d009d9e-9719-497d-be99-73a2222861a5" VersionNumber="4" Size="61002" FileName="Uchvala.docx.sdlxliff" PhysicalPath="cs-CZ\Uchvala.docx.sdlxliff" Comment="Created by 'Apply PerfectMatch+Analyze Files+Pre-translate Files'" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:26:04.7842751Z" FileTimeStamp="2015-03-22T21:26:04.7012704Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2015-03-22T21:25:39.2488146Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2015-03-22T21:25:39.2488146Z" AnalysisStatus="Complete">
+            <Total Words="606" Characters="3544" Segments="41" Placeables="44" Tags="10" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="2" Characters="15" Segments="2" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="6" Characters="26" Segments="1" Placeables="4" Tags="0" />
+              <CountData Words="6" Characters="19" Segments="1" Placeables="3" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="592" Characters="3484" Segments="37" Placeables="37" Tags="10" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2015-03-24T16:48:10.5677122Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="606" Characters="3544" Segments="41" Placeables="44" Tags="10" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+    <ProjectFile Guid="146ff22a-58cc-4b4c-a51a-02cdd3f5c289" Path="" Role="Translatable" Name="Vyklyk.docx" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Word 2007 v 2.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="462386ca-64f7-4c7c-8a8f-ad5426ef03f3" SettingsBundleGuid="35939a6c-c567-46e4-9682-385a44c3d14b" LanguageCode="uk-UA">
+          <FileVersions>
+            <FileVersion Guid="9cde6b69-0dc0-4731-bf3e-7963c98874a7" VersionNumber="1" Size="15567" FileName="Vyklyk.docx" PhysicalPath="uk-UA\Vyklyk.docx" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:24:15.1670054Z" FileTimeStamp="2015-03-22T21:21:05.4881564Z" />
+            <FileVersion Guid="6bd97b60-a6be-4c1a-b509-552afe6df4c8" VersionNumber="2" Size="29116" FileName="Vyklyk.docx.sdlxliff" PhysicalPath="uk-UA\Vyklyk.docx.sdlxliff" Comment="" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.5598324Z" FileTimeStamp="2015-03-22T21:25:39.5418313Z" />
+          </FileVersions>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="89b21c24-c0e1-49ed-8990-e62238be7865" SettingsBundleGuid="dcdab50f-a8a7-43e5-a346-4db828a4bc68" LanguageCode="cs-CZ">
+          <FileVersions>
+            <FileVersion Guid="04ad1b97-8e4a-4c4b-88ed-fd811180095f" VersionNumber="3" Size="29116" FileName="Vyklyk.docx.sdlxliff" PhysicalPath="cs-CZ\Vyklyk.docx.sdlxliff" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:25:39.6728388Z" FileTimeStamp="2015-03-22T21:25:39.5418313Z" />
+            <FileVersion Guid="59c4b6fc-033a-409a-87f6-5037332eb828" VersionNumber="4" Size="30509" FileName="Vyklyk.docx.sdlxliff" PhysicalPath="cs-CZ\Vyklyk.docx.sdlxliff" Comment="Created by 'Apply PerfectMatch+Analyze Files+Pre-translate Files'" CreatedBy="NadiiaK\Nadiia" CreatedAt="2015-03-22T21:26:05.6233231Z" FileTimeStamp="2015-03-22T21:26:05.5653198Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2015-03-22T21:25:39.5418313Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2015-03-22T21:25:39.5418313Z" AnalysisStatus="Complete">
+            <Total Words="105" Characters="611" Segments="12" Placeables="16" Tags="4" />
+            <Repetitions Words="13" Characters="90" Segments="4" Placeables="1" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="1" Characters="2" Segments="1" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="91" Characters="519" Segments="7" Placeables="15" Tags="4" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2015-03-24T16:55:12.3848387Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="105" Characters="611" Segments="12" Placeables="16" Tags="4" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+  </ProjectFiles>
+  <Tasks>
+    <AutomaticTask Guid="1c972e88-f72b-48b4-ab20-3c8ce637afb3" Status="Completed" CompletedAt="2015-03-22T21:24:17.0761146Z" PercentComplete="100" CreatedAt="2015-03-22T21:24:15.213008Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2015-03-22T21:24:15.3130137Z" CreatedBy="NadiiaK\Nadiia">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="a3187ca8-1154-4962-9b73-435cb79727aa" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="76f82e2b-d938-4412-afba-4f1d1495308c" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="02a13780-0bb0-4e8d-87cd-23c9c58b4681" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="8cca9a9c-de46-4706-a783-657c794b3b46" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="7a73bd85-5c38-4502-9cf7-bd594864b74e" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="02b6d329-b6ba-4c0c-9fdf-ebb75e4b56b9" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="dc323a3a-de35-47e4-8610-9e753c0822d4" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="ff54ad59-1b3a-4c55-822e-5e8094d1272b" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="f3283577-4fd6-4f23-90da-5e912026e5df" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="462386ca-64f7-4c7c-8a8f-ad5426ef03f3" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="76f82e2b-d938-4412-afba-4f1d1495308c" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="8cca9a9c-de46-4706-a783-657c794b3b46" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="02b6d329-b6ba-4c0c-9fdf-ebb75e4b56b9" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="ff54ad59-1b3a-4c55-822e-5e8094d1272b" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="462386ca-64f7-4c7c-8a8f-ad5426ef03f3" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="ba2c5f24-9924-4f4d-8719-03928e38d019" Status="Completed" CompletedAt="2015-03-22T21:25:39.5598324Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM" PercentComplete="100" CreatedAt="2015-03-22T21:25:33.3774788Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2015-03-22T21:25:33.7364993Z" CreatedBy="NadiiaK\Nadiia">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="c11bf762-921a-4846-a8df-1e6373567c5a" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="76f82e2b-d938-4412-afba-4f1d1495308c" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="8c59a1e1-613c-4801-a5a3-00b62d99422f" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="8cca9a9c-de46-4706-a783-657c794b3b46" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="e09c90c4-0b13-4df6-aec6-f2edb12e1da9" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="02b6d329-b6ba-4c0c-9fdf-ebb75e4b56b9" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="685675ab-0e8b-4785-aa2e-d3142d39b295" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="ff54ad59-1b3a-4c55-822e-5e8094d1272b" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="c2372dab-903f-42f0-98af-02723560131b" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="462386ca-64f7-4c7c-8a8f-ad5426ef03f3" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="76f82e2b-d938-4412-afba-4f1d1495308c" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="8cca9a9c-de46-4706-a783-657c794b3b46" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="02b6d329-b6ba-4c0c-9fdf-ebb75e4b56b9" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="ff54ad59-1b3a-4c55-822e-5e8094d1272b" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="462386ca-64f7-4c7c-8a8f-ad5426ef03f3" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="f486c886-870a-4f3c-9ff3-b1d3e891989a" Status="Completed" CompletedAt="2015-03-22T21:25:39.8298478Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM" PercentComplete="100" CreatedAt="2015-03-22T21:25:33.3774788Z" PredecessorTaskGuid="ba2c5f24-9924-4f4d-8719-03928e38d019" StartedAt="2015-03-22T21:25:39.5728331Z" CreatedBy="NadiiaK\Nadiia">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="5d6604da-d6f1-44d1-92f2-7526335a0911" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="76f82e2b-d938-4412-afba-4f1d1495308c" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="44861e26-f3ba-44fb-a542-d8815e28e89c" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="8cca9a9c-de46-4706-a783-657c794b3b46" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="4404745b-1f03-49ad-9a1a-cd4234838792" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="02b6d329-b6ba-4c0c-9fdf-ebb75e4b56b9" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="901a7d53-321b-4f65-a22c-382e37eea4a2" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="ff54ad59-1b3a-4c55-822e-5e8094d1272b" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="433943d5-b7ce-4b2c-867c-d423ff0e2e53" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="462386ca-64f7-4c7c-8a8f-ad5426ef03f3" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="728afe46-67b2-4a41-8d18-c5a473d2abab" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="070418b1-8644-4a91-9bf4-3e9b645e2614" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="98b28b07-b760-44a3-82ba-67d2b0f84ff4" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="bda9167c-af45-438f-a516-a2bad65288e6" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="89b21c24-c0e1-49ed-8990-e62238be7865" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="a54de9c2-20d5-4f56-8d45-c956c7c78863" Status="Completed" CompletedAt="2015-03-22T21:26:05.6863267Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM" PercentComplete="100" CreatedAt="2015-03-22T21:25:33.3774788Z" PredecessorTaskGuid="f486c886-870a-4f3c-9ff3-b1d3e891989a" StartedAt="2015-03-22T21:25:39.8518491Z" CreatedBy="NadiiaK\Nadiia">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="154a599f-ff80-4ad3-a9b2-e4f024d2aa67" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="728afe46-67b2-4a41-8d18-c5a473d2abab" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="11e227b5-438f-4b04-abf2-632ea6f9106a" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="070418b1-8644-4a91-9bf4-3e9b645e2614" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="a05e0503-c6a5-4600-a64c-c442efafe836" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="98b28b07-b760-44a3-82ba-67d2b0f84ff4" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="b26a8527-6171-4334-8b51-2af2eb1e52c9" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="bda9167c-af45-438f-a516-a2bad65288e6" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+        <TaskFile Guid="a9a88c31-d941-4b66-aa12-b3936140722c" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="89b21c24-c0e1-49ed-8990-e62238be7865" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="728afe46-67b2-4a41-8d18-c5a473d2abab" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="070418b1-8644-4a91-9bf4-3e9b645e2614" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="98b28b07-b760-44a3-82ba-67d2b0f84ff4" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="bda9167c-af45-438f-a516-a2bad65288e6" Purpose="WorkFile" />
+        <OutputFile LanguageFileGuid="89b21c24-c0e1-49ed-8990-e62238be7865" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="4bc4a880-b447-445f-8bc2-a09f39cf5e73" Name="Analyze Files Report" Description="Statistics showing the expected leverage from applying the translation memories." TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="736b322e-aaf2-4389-ae89-b80f40adecc2" PhysicalPath="Reports\Analyze Files uk-UA_cs-CZ.xml" />
+        <Report Guid="fc777f07-eca3-4ae7-8818-a6908ece6662" Name="Pre-translate Files Report" Description="Results of applying the translation memories to the files." TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="736b322e-aaf2-4389-ae89-b80f40adecc2" PhysicalPath="Reports\Pre-translate Files uk-UA_cs-CZ.xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+  </Tasks>
+  <PackageOperations>
+    <ProjectPackageCreationOperations />
+    <ProjectPackageImportOperations />
+    <ReturnPackageCreationOperations />
+    <ReturnPackageImportOperations />
+  </PackageOperations>
+</Project>
